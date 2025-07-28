@@ -111,14 +111,14 @@ entity.
 ### Stance Encoded Brian Thompson Retweet Network
 
 <figure>
-<img src="images/BT-netowrk.png" alt="BT Network" />
+<img src="images/BT-network.png" alt="BT Network" />
 <figcaption aria-hidden="true">BT Network</figcaption>
 </figure>
 
 ### Stance Encoded Luigi Mangione Retweet Network
 
 <figure>
-<img src="images/LM-netowrk.png" alt="LM Network" />
+<img src="images/LM-network.png" alt="LM Network" />
 <figcaption aria-hidden="true">LM Network</figcaption>
 </figure>
 
