@@ -43,7 +43,7 @@ Alina Hagen, Daniel Tafmizi, Dr. Nicolau DePaula
 
 ------------------------------------------------------------------------
 
-## 📊 Data Informationa
+## 📊 Data Sources
 
 This analysis’s data was collected using the X api through Brandwatch.
 Due to X api developer restrictions, only the Post Id’s + calculated
